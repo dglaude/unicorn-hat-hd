@@ -6,6 +6,10 @@ http://shop.pimoroni.com/products/unicorn-hat-hd
 [![PyPi Package](https://img.shields.io/pypi/v/unicornhathd.svg)](https://pypi.python.org/pypi/unicornhathd)
 [![Python Versions](https://img.shields.io/pypi/pyversions/unicornhathd.svg)](https://pypi.python.org/pypi/unicornhathd)
 
+## Why this fork
+
+The goal would be to make a Circuit Python driver for this.
+
 ## Installing
 
 ### Full install (recommended):
